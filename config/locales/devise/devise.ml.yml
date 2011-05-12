@@ -44,7 +44,7 @@ ml:
         subject: "രഹസ്യവാക്ക് മാറ്റാനുള്ള നിര്‍ദ്ദേശങ്ങള്‍"
         wont_change: "മുകളില്‍ കൊടുത്തിരിക്കുന്ന കണ്ണിയുപയോഗിച്ച് ഒരു പുതിയ രഹസ്യവാക്ക് നല്‍കുന്നതുവരെ താങ്കളുടെ നിലവിലുള്ള രഹസ്യവാക്ക് മാറുന്നതല്ല."
       unlock_instructions: 
-        account_locked: "Your account has been locked due to an excessive amount of unsuccessful sign in attempts."
+        account_locked: " Your account has been locked due to an excessive amount of unsuccessful sign in attempts."
         click_to_unlock: "നിങ്ങളുടെ അക്കൌണ്ട് തുറക്കുന്നതിനായി താഴെയുള്ള കണ്ണി തെരഞ്ഞെടുക്കുക:"
         subject: "അക്കൌണ്ട് തുറക്കുന്നതിനുള്ള വിവരങ്ങള്‍"
         unlock: "എന്റെ ആക്കൌണ്ട് തുറക്കുക"
